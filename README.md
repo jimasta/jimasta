@@ -5,14 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimasta&color=yellow" alt="Profile views" /> </p>
 Hi, my name is Jorge Masta, I am a Systems Analyst and Information Systems student. I'm 30 years old Husband, Father and Full-Stack Developer from Brasil!
 I have three years of experience working as a SharePoint / Power Platform Analyst and Developer.
-
-
+<br><br>
 
 
 - I’m currently learning NodeJS and React
 - I’m looking to collaborate with other content creators to evolve as a developer
 - Brainstorm with me over tech, algorithms, and music
 - Ask me about JavaScript, HTML, CSS
+
 
 ## Languages and Tools:
 
