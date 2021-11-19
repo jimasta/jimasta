@@ -10,7 +10,6 @@ I have three years of experience working as a SharePoint / Power Platform Analys
 
 - I’m currently learning NodeJS and React
 - I’m looking to collaborate with other content creators to evolve as a developer
-- Brainstorm with me over tech, algorithms, and music
 - Ask me about JavaScript, HTML, CSS
 
 
